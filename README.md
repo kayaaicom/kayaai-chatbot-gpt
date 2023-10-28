@@ -3,7 +3,6 @@ Kaya AI is an organization dedicated to advanced web security and artificial int
 What is Chat GPT-4 and its connection with Kaya AI Chatbot:
 
 Download App: https://play.google.com/store/apps/details?id=kaya.ai.chatbot.chatgpt
-Our website: https://kaya-ai.com
 
 ChatGPT-4 is a language model developed and trained by OpenAI. This technology stands out for its ability to understand complex aspects of language and provide accurate and concise answers in real-time. More potent than ever, GPT-4 represents a new revolution in communication and interaction. Kaya AI Chatbot aims to deliver an impressive user experience through this innovative language model.
 
@@ -20,8 +19,6 @@ The Setting Screen showcases the app's customizability. Here, users can find a r
 In conclusion, Kaya AI Chatbot takes the artificial intelligence chatbot experience to the next level, thanks to GPT-3 and GPT-4 technology. Not only does it cater to the chat needs of users, but it also offers them a range of customization and personalization options. Furthermore, Kaya AI Chatbot is continuously evolving and is designed to encompass all future GPT series and updates. This guarantees that the application will always deliver the most current and efficient AI chat experience.
 
 Download App: https://play.google.com/store/apps/details?id=kaya.ai.chatbot.chatgpt
-Our website: https://kaya-ai.com
-
 What is an artificial intelligence chatbot?
 
 An artificial intelligence (AI) chatbot is a programmed software that utilizes language processing abilities to comprehend human language and respond aptly. This technology represents a new revolution in communication and is being swiftly adopted by numerous businesses due to its potential to deliver superior service quality.
